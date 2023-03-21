@@ -1,0 +1,2 @@
+# main.tf
+terra-project
